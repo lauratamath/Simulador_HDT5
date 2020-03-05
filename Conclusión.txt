@@ -1,0 +1,2 @@
+
+Gracias a un análisis de resultados y de gráficas, se puede concluir que, para acelerar el rendimiento de una ejecución, la memoria RAM debe de ser excelente, con buena capacidad. Esto se puede ver con el simple hecho de analizar los tiempos. Es recomendable utilizar un intervalo de 10, para que así el CPU esté encargado de terminar de atender todos los procesos existentes, para que ninguno de estos se quede sin espacio. 
